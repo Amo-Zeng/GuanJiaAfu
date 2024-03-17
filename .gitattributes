@@ -1,0 +1,2 @@
+微调阿福/adapter_model.bin filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
