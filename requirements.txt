@@ -1,0 +1,6 @@
+jsonlines
+transformers
+einops
+accelerate
+bitsandbytes
+peft
