@@ -31,6 +31,6 @@ None
 
 # 说明
 
-项目是用我的另一个项目 派对（https://github.com/Amo-Zeng/paidui） 进行微调的，基于这个项目已经包含派对了，并做了一些改进。
+项目是用我的另一个项目 派对（https://github.com/Amo-Zeng/paidui ）进行微调的，基于这个项目已经包含派对了，并做了一些改进。
 
-感谢书生浦语（https://github.com/InternLM/Tutorial）提供的算力与活动。
+感谢书生浦语（https://github.com/InternLM/Tutorial ）提供的算力与活动。
