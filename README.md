@@ -31,7 +31,9 @@ None
 更多示例见视频演示（https://raw.githubusercontent.com/Amo-Zeng/GuanJiaAfu/main/Screenrecording20240317_184819.mp4 ）
 
 # 说明
+modelscope(https://modelscope.cn/models/amozeng/GuanJiaAfu/summary )下载速度应该快点。
+github(https://github.com/Amo-Zeng/GuanJiaAfu )连接也放上。
 
-项目是用我的另一个项目 派对（https://github.com/Amo-Zeng/paidui ）进行微调的，基于这个项目已经包含派对了，并做了一些改进。
+项目是用我的另一个项目 派对（https://github.com/Amo-Zeng/paidui ）进行微调的。其实本项目已经包含派对了，还做了一些改进。
 
 感谢书生浦语（https://github.com/InternLM/Tutorial ）提供的算力与活动。
