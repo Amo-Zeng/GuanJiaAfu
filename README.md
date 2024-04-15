@@ -28,7 +28,7 @@ None
 我有三十块钱，李四是我的四倍，王五比李四多六块，问王五有多少钱？
 自然派 加 30 乘 4 6 
 ```
-更多示例见视频演示（https://raw.githubusercontent.com/Amo-Zeng/GuanJiaAfu/main/Screenrecording20240317_184819.mp4 ）
+更多示例见视频演示（https://www.bilibili.com/video/BV17K421a7vu ）
 
 # 说明
 modelscope(https://modelscope.cn/models/amozeng/GuanJiaAfu/summary )下载速度应该快点。
